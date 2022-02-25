@@ -4,7 +4,7 @@ an array using whiteboard .
 
 ## Whiteboard Process
 
-![reverse-array png](https://user-images.githubusercontent.com/72309669/155801946-39887fbe-52cf-4b40-bd85-f7108926a3a7.jpg)
+![reverse-array png](./images/reverse-array.jpg)
 
 
 ## Approach & Efficiency
