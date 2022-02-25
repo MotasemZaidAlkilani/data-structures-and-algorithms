@@ -11,3 +11,6 @@ an array using whiteboard .
 I wrote firstly all of it at paper , then see if 
 there is any problem or misinformation ,then writing
 at whiteboard from the paper.
+
+## Assigment Question
+Assigment took me around 2 hours to finish it.
