@@ -4,7 +4,8 @@ an array using whiteboard .
 
 ## Whiteboard Process
 
-![](../../Pictures/reverse-array.png.jpg)
+
+![reverse-array](https://user-images.githubusercontent.com/72309669/155803615-ad4e8dc3-7757-4616-a272-0c0e15e453a7.jpg)
 
 ## Approach & Efficiency
 I wrote firstly all of it at paper , then see if 
