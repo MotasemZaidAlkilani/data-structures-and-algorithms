@@ -6,7 +6,6 @@ an array using whiteboard .
 
 ![reverse-array png](./images/reverse-array.jpg)
 
-
 ## Approach & Efficiency
 I wrote firstly all of it at paper , then see if 
 there is any problem or misinformation ,then writing
