@@ -8,6 +8,7 @@ array using binary search .
 <img src="./images/code-challenge03.jpg">
 
 ## Approach & Efficiency
+
 -first ,write the code in java compiler online 
 -ensure the code work as required
 -step by step ,wrote the required 
