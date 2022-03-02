@@ -6,6 +6,7 @@ first one is single linked list ,it is the standard one ,the other one
 is the double linked list ,the different between them ,that double
 linked list has another pointer to previous node.
 
+
 ## Challenge
 challenge for making in the first empty linked list ,then make method
 to add values to the list ,and another method to check if value are 
