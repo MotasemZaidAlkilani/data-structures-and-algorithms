@@ -51,20 +51,7 @@ public class LinkedList {
                     pointer.next=n;
                     break;}
                 pointer=pointer.next;}}}
-    public boolean includes(int value){
-        Node pointer=this.head;
-        boolean result=false;
-        while(pointer!=null){
 
-            if(pointer.value==value){
-                result=true;
-                break;
-            }
-
-            pointer=pointer.next;
-        }
-        return result;
-    }
 
 
 

@@ -14,7 +14,6 @@ class AppTest {
 
     @Test void addNodeToEndOfList() {
         int []array;
-        assertFalse(sample.includes(1));
         int value1=1,value2=3,value3=5,value4=4,value5=2,value6=6,value7=0;
      sample.append(value1); array= new int[]{value1};
      sample.append(value2); array= new int[]{value1, value2};
