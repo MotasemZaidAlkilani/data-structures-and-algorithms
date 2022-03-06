@@ -14,3 +14,6 @@ last one to add values after specific values.
 # Approach & Efficiency
 reduce time complexity of each function
 .time complexity for all functions was O(n)
+
+# code
+[link](https://github.com/MotasemZaidAlkilani/data-structures-and-algorithms/blob/main/linked-list-insertions/app/src/main/java/linked/list/insertions/LinkedList.java)
