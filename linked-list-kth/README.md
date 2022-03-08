@@ -25,3 +25,5 @@ insert method
 3-call the kthFromEnd method ,and enter 
 the required element index to return 
 its value.
+## Code 
+[link](./lib/src/main/java/linked/list/kth/LinkedList.java)
