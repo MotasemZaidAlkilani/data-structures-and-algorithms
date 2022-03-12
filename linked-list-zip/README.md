@@ -25,4 +25,4 @@ to run the code , u need to do the following:
 
 ## code 
 
-[!link](lib/src/main/java/linked/list/zip/App.java)
+[link](lib/src/main/java/linked/list/zip/App.java)
