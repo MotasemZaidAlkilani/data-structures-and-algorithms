@@ -22,3 +22,7 @@ to run the code , u need to do the following:
 4-values will combine on the first parameter which is  first linkedlist
 
 5-use toString on first linkedlist to see the result.
+
+## code 
+
+[!link](lib/src/main/java/linked/list/zip/App.java)
