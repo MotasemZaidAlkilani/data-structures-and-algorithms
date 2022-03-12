@@ -9,4 +9,4 @@
 |codeChallenge06|linked-list-inertions|[link](./linked-list-insertions/README.md)|
 |codeChallenge07|linked-list-kth|[link](./linked-list-kth/README.md)|
 |codeChallenge08|linked-list-zip|[link](./linked-list-zip/README.md)|
-linked-list-zip
+
