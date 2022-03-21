@@ -10,4 +10,4 @@
 |codeChallenge07|linked-list-kth|[link](./linked-list-kth/README.md)|
 |codeChallenge08|linked-list-zip|[link](./linked-list-zip/README.md)|
 |codeChallenge10|Stacks-Queues|[link](./queueAndStack/ReadMe.md)|
-
+|codeChallenge12|stack-queue-animal-shelter|[link](./stack-queue-animal-shelter/ReadMe.md)|
