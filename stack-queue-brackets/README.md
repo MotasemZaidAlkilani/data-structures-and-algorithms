@@ -5,7 +5,7 @@ open braket ,have to be the same type of braket, and nothing between them except
 
 
 ## Whiteboard Process
-<img src="stackqueuebrackets.jpg">
+<img src="stackQueueBrackets.jpg">
 
 ## Approach & Efficiency
 Time O(n)
