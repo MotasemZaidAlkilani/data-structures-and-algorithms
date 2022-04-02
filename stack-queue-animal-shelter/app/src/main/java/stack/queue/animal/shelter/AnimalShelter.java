@@ -1,8 +1,14 @@
 package stack.queue.animal.shelter;
 
+
+
+import java.util.ArrayList;
+
+
 public class AnimalShelter {
    animal front;
    animal rear;
+ArrayList<String> list=new ArrayList<>();
 
     public AnimalShelter() {
         this.front = null;
@@ -10,6 +16,7 @@ public class AnimalShelter {
     }
 
     public void enqueue(animal animal){
+        list.add(0,animal.value);
         if (animal != null) {
 
 
@@ -17,27 +24,35 @@ public class AnimalShelter {
                 this.front = animal;
                 this.rear = animal;
             } else {
-
+                animal pointer=this.front;
                 this.front = animal;
+                this.front.next=pointer;
             }
         }
     }
     public String dequeue(String pref){
-        String result=pref;
-        animal pointer=this.front;
+        String result="none";
+        int count=0;
+         animal pointer=this.front;
+         int j=0;
         while(pointer!=null){
-            if(pointer.next==rear){
-                this.rear=pointer;
+            if(list.get(j)==pref){
+                result= list.get(j);
+                list.remove(count);
                 break;
             }
-            pointer=pointer.next;
 
+           j++;
+            pointer=pointer.next;
+            count++;
     }
-        if(result=="cat"&&result!="dog"||result!="cat"&&result=="dog"){
-            return result;
-        }
-        else{
-            return null;
-        }
+return result;
+    }
+
+    @Override
+    public String toString() {
+        return "AnimalShelter{" +
+                "list=" + list +
+                '}';
     }
 }
