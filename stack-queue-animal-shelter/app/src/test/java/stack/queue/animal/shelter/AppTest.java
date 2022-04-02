@@ -9,22 +9,22 @@ import static org.junit.jupiter.api.Assertions.*;
 class AppTest {
     @Test void AnimalShelterTest() {
         AnimalShelter sample=new AnimalShelter();
-        sample.enqueue(new animal("cat"));
+        sample.enqueue(new cat());
         String exceptionForValidInput="cat";
-        String actualForValidInput=sample.rear.type;
+        String actualForValidInput=sample.rear.value;
         assertEquals(exceptionForValidInput,actualForValidInput);
 
-        sample.enqueue(new animal("monkey"));
-        String exceptionForNotValidInput="cat";
-        String actualForNotValidInput=sample.rear.type;
+        sample.enqueue(new dog());
+        String exceptionForNotValidInput="dog";
+        String actualForNotValidInput=sample.front.value;
         assertEquals(exceptionForNotValidInput,actualForNotValidInput);
 
         String exceptionForDequeueValied="cat";
         String actualForDequeueValied=sample.dequeue("cat");
         assertEquals(exceptionForDequeueValied,actualForDequeueValied);
 
-        String exceptionForDequeueNotValied=null;
-        String actualForDequeuenotValied=sample.dequeue("monkey");
+        String exceptionForDequeueNotValied="dog";
+        String actualForDequeuenotValied=sample.dequeue("dog");
         assertEquals(exceptionForDequeueNotValied,actualForDequeuenotValied);
 
 
