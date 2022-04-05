@@ -15,3 +15,4 @@
 |codeChallenge15|trees|[link](./trees/README.md)|
 |codeChallenge16|tree-max|[link](./tree-max/README.md)|
 |codeChallenge17|tree-breadth-first|[link](./tree-breadth-first/README.md)|
+|codeChallenge18|tree-fizz-buzz|[link](./tree-fizz-buzz/README.md)|
