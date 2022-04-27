@@ -1,5 +1,7 @@
 # data-structures-and-algorithms
 
+## during web
+
 |The code | The title | The Link |
 |---------|-----------|----------|
 |codeChallenge01|reverseArray|[link](./array-reverse/array-reverse.md)|
@@ -19,7 +21,7 @@
 
 
 
-## android 
+## during android 
 |The code | The title | The Link |
 |---------|-----------|----------|
 |codeChallenge26|insertionSort|[link](./insertionSort/README.md)|
