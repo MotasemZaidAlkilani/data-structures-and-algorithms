@@ -1,10 +1,10 @@
 # Challenge Summary
 step by step how insertion sort code algorithm works.
 ## Whiteboard Process
-<img src="./codeChallenge26.jpg"/>
+<img src="./whiteboard.jpg"/>
 
 ## Approach & Efficiency
-Time O(n)
+Time O(n^2)
 
 Space O(1)
 ## Solution
