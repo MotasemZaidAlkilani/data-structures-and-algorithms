@@ -26,3 +26,4 @@
 |---------|-----------|----------|
 |codeChallenge26|insertionSort|[link](./insertionSort/README.md)|
 |codeChallenge27|mergesort|[link](./mergesort/README.md)|
+|codeChallenge28|mergesort|[link](./quickSort/README.md)|
