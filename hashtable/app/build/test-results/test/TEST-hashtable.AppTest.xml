@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hashtable.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-14T16:52:20" hostname="DESKTOP-E5H9M2J" time="0.008">
+  <properties/>
+  <testcase name="hashTheKey()" classname="hashtable.AppTest" time="0.008"/>
+  <system-out><![CDATA[The index of => java is => 8
+The index of => c++ is => 5
+The index of => c# is => 4
+The index of => java is => 8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
