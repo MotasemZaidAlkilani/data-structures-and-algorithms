@@ -1,7 +1,8 @@
 # Challenge Summary
 challenge to find the first repeated word in string. 
 ## Whiteboard Process
-<img src="./Whiteboard.jpg"/>
+
+<img src="./whiteboard.jpg"/>
 
 ## Approach & Efficiency
 Time O(n^2)
