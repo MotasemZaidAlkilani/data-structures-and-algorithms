@@ -28,3 +28,4 @@
 |codeChallenge27|mergesort|[link](./mergesort/README.md)|
 |codeChallenge28|quickSort|[link](./quickSort/README.md)|
 |codeChallenge30|hashtable|[link](./hashtable/README.md)|
+|codeChallenge31|repeated word|[link](./repeated-word/README.md)|
