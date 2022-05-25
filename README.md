@@ -1,5 +1,7 @@
 # data-structures-and-algorithms
 
+## during web
+
 |The code | The title | The Link |
 |---------|-----------|----------|
 |codeChallenge01|reverseArray|[link](./array-reverse/array-reverse.md)|
@@ -16,3 +18,15 @@
 |codeChallenge16|tree-max|[link](./tree-max/README.md)|
 |codeChallenge17|tree-breadth-first|[link](./tree-breadth-first/README.md)|
 |codeChallenge18|tree-fizz-buzz|[link](./tree-fizz-buzz/README.md)|
+
+
+
+## during android 
+|The code | The title | The Link |
+|---------|-----------|----------|
+|codeChallenge26|insertionSort|[link](./insertionSort/README.md)|
+|codeChallenge27|mergesort|[link](./mergesort/README.md)|
+|codeChallenge28|quickSort|[link](./quickSort/README.md)|
+|codeChallenge30|hashtable|[link](./hashtable/README.md)|
+|codeChallenge31|repeated word|[link](./repeated-word/README.md)|
+|codeChallenge32|tree-intersection|[link](./tree-intersection/README.md)|

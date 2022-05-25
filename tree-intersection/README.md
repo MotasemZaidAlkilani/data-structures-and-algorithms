@@ -1,3 +1,4 @@
+
 # Challenge Summary
 find the common values between two binary tree
 ## Whiteboard Process
@@ -26,5 +27,7 @@ How code working :
 3-then will check if they equal 
 
 4- if they equal will add it to hashMap 
+
+5- the method when end will return set of values inserted in hashMap
 
 5- the method when end will return set of values inserted in hashMap

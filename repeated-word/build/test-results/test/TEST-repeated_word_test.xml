@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repeated_word_test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-15T19:48:20" hostname="DESKTOP-E5H9M2J" time="0.063">
+  <properties/>
+  <testcase name="TestThirdSetence()" classname="repeated_word_test" time="0.031"/>
+  <testcase name="TestFirstSentence()" classname="repeated_word_test" time="0.002"/>
+  <testcase name="TestSecondSentence()" classname="repeated_word_test" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
