@@ -32,6 +32,5 @@
 |codeChallenge32|tree-intersection|[link](./tree-intersection/README.md)|
 |codeChallenge33|hashmap-left-join|[link](./hashmap-left-join/README.md)|
 |codeChallenge35|graph|[link](./graph/README.md)|
-|codeChallenge36|graph-breadth-first
-|[link](./graph-breadth-first/README.md)|
+|codeChallenge36|graph-breadth-first|[link](./graph-breadth-first/README.md)|
 
